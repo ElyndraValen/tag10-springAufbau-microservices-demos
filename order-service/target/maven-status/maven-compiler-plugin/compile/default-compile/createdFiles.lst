@@ -1,0 +1,7 @@
+com/javafleet/orderservice/OrderServiceApplication.class
+com/javafleet/orderservice/model/OrderWithUser.class
+com/javafleet/orderservice/service/OrderService.class
+com/javafleet/orderservice/client/UserClient.class
+com/javafleet/orderservice/controller/OrderController.class
+com/javafleet/orderservice/model/User.class
+com/javafleet/orderservice/model/Order.class

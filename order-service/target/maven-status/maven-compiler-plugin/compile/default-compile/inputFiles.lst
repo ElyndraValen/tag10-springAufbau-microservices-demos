@@ -1,0 +1,7 @@
+/home/trainer/NetBeansProjects/SpringBoot/SBAK_13.10.25/tag10-springAufbau-microservices-demos-FIXED/tag10-springAufbau-microservices-demos/order-service/src/main/java/com/javafleet/orderservice/controller/OrderController.java
+/home/trainer/NetBeansProjects/SpringBoot/SBAK_13.10.25/tag10-springAufbau-microservices-demos-FIXED/tag10-springAufbau-microservices-demos/order-service/src/main/java/com/javafleet/orderservice/model/User.java
+/home/trainer/NetBeansProjects/SpringBoot/SBAK_13.10.25/tag10-springAufbau-microservices-demos-FIXED/tag10-springAufbau-microservices-demos/order-service/src/main/java/com/javafleet/orderservice/OrderServiceApplication.java
+/home/trainer/NetBeansProjects/SpringBoot/SBAK_13.10.25/tag10-springAufbau-microservices-demos-FIXED/tag10-springAufbau-microservices-demos/order-service/src/main/java/com/javafleet/orderservice/service/OrderService.java
+/home/trainer/NetBeansProjects/SpringBoot/SBAK_13.10.25/tag10-springAufbau-microservices-demos-FIXED/tag10-springAufbau-microservices-demos/order-service/src/main/java/com/javafleet/orderservice/client/UserClient.java
+/home/trainer/NetBeansProjects/SpringBoot/SBAK_13.10.25/tag10-springAufbau-microservices-demos-FIXED/tag10-springAufbau-microservices-demos/order-service/src/main/java/com/javafleet/orderservice/model/OrderWithUser.java
+/home/trainer/NetBeansProjects/SpringBoot/SBAK_13.10.25/tag10-springAufbau-microservices-demos-FIXED/tag10-springAufbau-microservices-demos/order-service/src/main/java/com/javafleet/orderservice/model/Order.java

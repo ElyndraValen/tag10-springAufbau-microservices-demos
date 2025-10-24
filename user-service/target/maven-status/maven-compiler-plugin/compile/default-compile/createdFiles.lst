@@ -1,0 +1,4 @@
+com/javafleet/userservice/controller/UserController.class
+com/javafleet/userservice/service/UserService.class
+com/javafleet/userservice/UserServiceApplication.class
+com/javafleet/userservice/model/User.class
